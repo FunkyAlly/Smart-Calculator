@@ -25,5 +25,5 @@ python calculator.py
 
 ## Project Purpose
 
-This project demonstrates basic Python programming
-and Git version control operations.
+This project demonstrates Git branching, merging,
+and conflict resolution.
