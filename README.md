@@ -25,5 +25,6 @@ python calculator.py
 
 ## Project Purpose
 
-This project demonstrates Python programming and
-basic calculator operations.
+This project demonstrates Python programming,
+calculator development, and Git branching,
+merging, and conflict resolution.
